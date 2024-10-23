@@ -1,0 +1,29 @@
+{
+  "name": "backend-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.19.0",
+    "axios": "^1.7.7",
+    "base64-js": "^1.5.1",
+    "body-parser": "^1.20.3",
+    "connect-livereload": "^0.6.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "joi": "^17.13.3",
+    "livereload": "^0.9.3",
+    "sharp": "^0.33.5",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
